@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @ShinoPavels
 - 👀 I’m interested in coding and Competitive E-sport
 - 🌱 I’m currently applying for a developper position
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m trained in :
+Langages : HTML, CSS, JavaScript, Python, SQL
+Frameworks & Library : React, Node.js, TailwindCSS
+Tools : Git
 - 📫 How to reach me shinopavels.contact@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
 
 <!---
 ShinoPavels/ShinoPavels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
