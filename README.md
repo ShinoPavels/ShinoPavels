@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShinoPavels
-- 👀 I’m interested in coding and video games
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in coding and Competitive E-sport
+- 🌱 I’m currently applying for a developper position
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shinopavels.contact@gmail.com
 - 😄 Pronouns: He
